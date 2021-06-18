@@ -1,0 +1,24 @@
+C:\Users\Asus\Desktop\KarnaughMapFinal-master\KarnaughMap\bin\Debug\KarnaughMap.exe.config
+C:\Users\Asus\Desktop\KarnaughMapFinal-master\KarnaughMap\bin\Debug\KarnaughMap.exe
+C:\Users\Asus\Desktop\KarnaughMapFinal-master\KarnaughMap\bin\Debug\KarnaughMap.pdb
+C:\Users\Asus\Desktop\KarnaughMapFinal-master\KarnaughMap\obj\Debug\KarnaughMap.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\KarnaughMapFinal-master\KarnaughMap\obj\Debug\KarnaughMap.Form1.resources
+C:\Users\Asus\Desktop\KarnaughMapFinal-master\KarnaughMap\obj\Debug\KarnaughMap.FormCuatroVariables.resources
+C:\Users\Asus\Desktop\KarnaughMapFinal-master\KarnaughMap\obj\Debug\KarnaughMap.FormMapaFuncion.resources
+C:\Users\Asus\Desktop\KarnaughMapFinal-master\KarnaughMap\obj\Debug\KarnaughMap.FormTresVariables.resources
+C:\Users\Asus\Desktop\KarnaughMapFinal-master\KarnaughMap\obj\Debug\KarnaughMap.Properties.Resources.resources
+C:\Users\Asus\Desktop\KarnaughMapFinal-master\KarnaughMap\obj\Debug\KarnaughMap.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\KarnaughMapFinal-master\KarnaughMap\obj\Debug\KarnaughMap.exe
+C:\Users\Asus\Desktop\KarnaughMapFinal-master\KarnaughMap\obj\Debug\KarnaughMap.pdb
+E:\digital logic\homework\3\c#\KarnaughMap\KarnaughMap\bin\Debug\KarnaughMap.exe.config
+E:\digital logic\homework\3\c#\KarnaughMap\KarnaughMap\bin\Debug\KarnaughMap.exe
+E:\digital logic\homework\3\c#\KarnaughMap\KarnaughMap\bin\Debug\KarnaughMap.pdb
+E:\digital logic\homework\3\c#\KarnaughMap\KarnaughMap\obj\Debug\KarnaughMap.csprojAssemblyReference.cache
+E:\digital logic\homework\3\c#\KarnaughMap\KarnaughMap\obj\Debug\KarnaughMap.Form1.resources
+E:\digital logic\homework\3\c#\KarnaughMap\KarnaughMap\obj\Debug\KarnaughMap.FormCuatroVariables.resources
+E:\digital logic\homework\3\c#\KarnaughMap\KarnaughMap\obj\Debug\KarnaughMap.FormMapaFuncion.resources
+E:\digital logic\homework\3\c#\KarnaughMap\KarnaughMap\obj\Debug\KarnaughMap.FormTresVariables.resources
+E:\digital logic\homework\3\c#\KarnaughMap\KarnaughMap\obj\Debug\KarnaughMap.Properties.Resources.resources
+E:\digital logic\homework\3\c#\KarnaughMap\KarnaughMap\obj\Debug\KarnaughMap.csproj.GenerateResource.cache
+E:\digital logic\homework\3\c#\KarnaughMap\KarnaughMap\obj\Debug\KarnaughMap.exe
+E:\digital logic\homework\3\c#\KarnaughMap\KarnaughMap\obj\Debug\KarnaughMap.pdb
